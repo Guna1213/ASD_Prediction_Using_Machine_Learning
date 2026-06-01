@@ -1,10 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guna+D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring+AI+%26+Data+Science+Engineer&descAlignY=62&descSize=16" width="100%"/>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Guna+D+%F0%9F%91%8B;Aspiring+AI+%26+Data+Science+Engineer;Python+%7C+Java+%7C+SQL+%7C+R+Developer;Turning+Data+into+Decisions+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
+
 <br/>
+
 ---
+
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ```python
 class GunaD:
     def __init__(self):
@@ -26,25 +31,39 @@ class GunaD:
 me = GunaD()
 print(me.motto())
 ```
+
 <br clear="right"/>
+
 ---
-🛠️ Tech Stack
-Languages
+
+## 🛠️ Tech Stack
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-Web Development
+
+**Web Development**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-Databases
+
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-Tools & Platforms
+
+**Tools & Platforms**
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
 ---
-📊 GitHub Stats
+
+## 📊 GitHub Stats
+
 <div align="center">
   <a href="https://github.com/Guna1213">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guna1213&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
@@ -53,55 +72,91 @@ Tools & Platforms
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna1213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
+
 ---
-🔥 Streak Stats
+
+## 🔥 Streak Stats
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Guna1213&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
+
 ---
-📈 Activity Graph
+
+## 📈 Activity Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guna1213&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
+
 ---
-🏆 Trophy Wall
+
+## 🏆 Trophy Wall
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Guna1213&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 </div>
+
 ---
-💼 Work Experience
+
+## 💼 Work Experience
+
 <details>
 <summary>🏢 <strong>Campus Ambassador</strong> — Glowlogics &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Karpagam College of Engineering, Coimbatore</summary>
 <br/>
+
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-00BFA5?style=flat-square&logoColor=white) ![Data Science](https://img.shields.io/badge/Data%20Science-0288D1?style=flat-square&logoColor=white) ![Outreach](https://img.shields.io/badge/Outreach-BF91F3?style=flat-square&logoColor=white)
-📣 Promoted technology events and increased student engagement across the campus community
-🧑‍🏫 Coordinated AI & Data Science awareness programs and hands-on workshops
-🤝 Recognized by Glowlogics for leadership and outstanding contribution to student tech outreach
+
+- 📣 Promoted technology events and **increased student engagement** across the campus community
+- 🧑‍🏫 Coordinated **AI & Data Science** awareness programs and hands-on workshops
+- 🤝 Recognized by Glowlogics for leadership and outstanding contribution to student tech outreach
+
 </details>
+
 ---
-🚀 Featured Projects
+
+## 🚀 Featured Projects
+
 <div align="center">
-Project	Stack	Highlights
-💊 Medicine Reminder Application	Python · SQL	Developed & deployed a real-world mini app helping users manage and track medicine schedules with automated timely reminders — end-to-end project from design to deployment (2025)
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| [💊 Medicine Reminder Application](https://github.com/Guna1213) | Python · SQL | Developed & deployed a real-world mini app helping users manage and track medicine schedules with automated timely reminders — end-to-end project from design to deployment (2025) |
+
 </div>
+
 ---
-🏅 Achievements
+
+## 🏅 Achievements
+
 <div align="center">
-🏆	Achievement	Details
-🎖️	Campus Ambassador — Glowlogics	Recognized for leadership & outreach in student tech engagement (2025)
-💻	Application Project Developer	Built & deployed a real-world Medicine Reminder Application
-📜	R for Data Science Certification	Issued by CognitiveClass
-📜	Machine Learning with R Certification	Issued by CognitiveClass
+
+| 🏆 | Achievement | Details |
+|----|-------------|---------|
+| 🎖️ | Campus Ambassador — Glowlogics | Recognized for leadership & outreach in student tech engagement (2025) |
+| 💻 | Application Project Developer | Built & deployed a real-world Medicine Reminder Application |
+| 📜 | R for Data Science Certification | Issued by CognitiveClass |
+| 📜 | Machine Learning with R Certification | Issued by CognitiveClass |
+
 </div>
+
 ---
-🎓 Education
+
+## 🎓 Education
+
 <div align="center">
-Degree	Institution	Year	Location
-🎓 B.Tech — Artificial Intelligence & Data Science	Karpagam College of Engineering	2024 – Present	Coimbatore, Tamil Nadu
-📚 School Education (HSC)	Sri Vivekananda Higher Secondary School	2010 – 2024	Kallakurichi, Tamil Nadu
+
+| Degree | Institution | Year | Location |
+|--------|-------------|------|----------|
+| 🎓 B.Tech — Artificial Intelligence & Data Science | Karpagam College of Engineering | 2024 – Present | Coimbatore, Tamil Nadu |
+| 📚 School Education (HSC) | Sri Vivekananda Higher Secondary School | 2010 – 2024 | Kallakurichi, Tamil Nadu |
+
 </div>
+
 ---
-📚 Currently Learning
+
+## 📚 Currently Learning
+
 ```
 🤖 Artificial Intelligence  →  Machine Learning · Deep Learning · Neural Networks
 📊 Data Science             →  Data Analysis · Visualization · Pandas · NumPy
@@ -109,11 +164,16 @@ Degree	Institution	Year	Location
 🌐 Web Development          →  HTML · CSS · JavaScript Fundamentals
 🗄️ Databases               →  MySQL · Advanced SQL Queries · Schema Design
 ```
+
 ---
+
 <div align="center">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guna-d-755165331)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna1213)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gunadhanabal2006@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Guna1213&label=Profile%20Views&color=70a5fd&style=flat-square)
+
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
